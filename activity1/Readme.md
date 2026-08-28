@@ -7,3 +7,4 @@ A basic C programming project created to demonstrate programming fundamentals.
 ```bash
 gcc hello.c -o hello
 ./hello
+learning python
